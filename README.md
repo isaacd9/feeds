@@ -1,4 +1,5 @@
 ## My Feeds
+[![Build Status](https://travis-ci.com/isaacd9/feeds.svg?branch=master)](https://travis-ci.com/isaacd9/feeds)
 
 This is my personal list of RSS feeds I subscribe to. I have a cron job that
 runs on that pulls this periodically and generates a feed using a minorly

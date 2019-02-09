@@ -1,0 +1,5 @@
+---
+language: bash
+os: osx
+script: "sort -c feeds.txt"
+
