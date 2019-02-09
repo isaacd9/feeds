@@ -1,5 +1,8 @@
 ---
 language: bash
 os: osx
-script: "sort -c feeds.txt"
+install: "go get github.com/isaacd9/picofeed"
+script:
+  - "sort -c feeds.txt"
+  - "go run github.com/isaacd9/picofeed feeds.txt"
 
