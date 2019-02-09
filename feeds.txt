@@ -9,6 +9,7 @@ http://queue.acm.org/rss/feeds/queuecontent.xml
 http://rachelbythebay.com/w/atom.xml
 http://seenaburns.com/feed.xml
 http://www.brendangregg.com/blog/rss.xml
+http://www.elidedbranches.com/feeds/posts/default
 http://www.jayshirley.com/blog?format=rss
 https://accidentallyquadratic.tumblr.com/rss
 https://aphyr.com/posts.atom
