@@ -2,8 +2,9 @@
 [![Build Status](https://travis-ci.com/isaacd9/feeds.svg?branch=master)](https://travis-ci.com/isaacd9/feeds)
 
 This is my personal list of RSS feeds I subscribe to. I have a cron job that
-runs on that pulls this periodically and generates a feed using a minorly
-forked version of [picofeed](https://github.com/seenaburns/picofeed).
+runs on that pulls this periodically and generates a feed using a [minorly
+forked](https://github.com/isaacd9/picofeed) version of
+[picofeed](https://github.com/seenaburns/picofeed).
 
 I serve it publicly, so feel free to read along with me:
 [feed.isaac.diamonds](https://feed.isaac.diamonds).
