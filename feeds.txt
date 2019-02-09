@@ -18,6 +18,7 @@ https://blog.jessfraz.com/index.xml
 https://blog.jez.io/atom.xml
 https://brandur.org/articles.atom
 https://charity.wtf/feed/atom/
+https://feeds.feedburner.com/bijsterespoor
 https://feeds.feedburner.com/codinghorror
 https://idlewords.com/index.xml
 https://increment.com/feed.xml
