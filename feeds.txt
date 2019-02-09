@@ -29,6 +29,7 @@ https://medium.com/feed/@copyconstruct/
 https://medium.com/feed/@ericajoy/
 https://medium.com/feed/@mikeshi
 https://robertheaton.com/feed.xml
+https://sophiebits.com/atom.xml
 https://stripe.com/blog/feed.rss
 https://vitalik.ca/feed.xml
 https://write.as/365-rfcs/feed/
