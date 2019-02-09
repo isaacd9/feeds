@@ -8,7 +8,6 @@ http://jvns.ca/atom.xml
 http://queue.acm.org/rss/feeds/queuecontent.xml
 http://rachelbythebay.com/w/atom.xml
 http://seenaburns.com/feed.xml
-http://www.bostonglobe.com/bigpicture/index.html
 http://www.brendangregg.com/blog/rss.xml
 http://www.jayshirley.com/blog?format=rss
 https://accidentallyquadratic.tumblr.com/rss
@@ -33,4 +32,5 @@ https://stripe.com/blog/feed.rss
 https://vitalik.ca/feed.xml
 https://write.as/365-rfcs/feed/
 https://www.allthingsdistributed.com/atom.xml
+https://www.bostonglobe.com/rss/bigpicture
 https://www.kalzumeus.com/feed/articles/

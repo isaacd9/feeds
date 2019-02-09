@@ -1,5 +1,10 @@
 ---
 language: bash
 os: osx
-script: "sort -c feeds.txt"
+env:
+install:
+  - "go get -v -u github.com/isaacd9/picofeed"
+script:
+  - "sort -c feeds.txt"
+  - "/Users/travis/go/bin/picofeed --validate feeds.txt > /dev/null"
 
