@@ -24,6 +24,8 @@ https://jamesbvaughan.com/feed.xml
 https://john-millikin.com/changes.xml
 https://krebsonsecurity.com/feed
 https://lethain.com/feeds/all
+https://medium.com/feed/@copyconstruct/
+https://medium.com/feed/@ericajoy/
 https://robertheaton.com/feed.xml
 https://stripe.com/blog/feed.rss
 https://vitalik.ca/feed.xml
