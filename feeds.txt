@@ -29,3 +29,4 @@ https://stripe.com/blog/feed.rss
 https://vitalik.ca/feed.xml
 https://write.as/365-rfcs/feed/
 https://www.allthingsdistributed.com/atom.xml
+https://www.kalzumeus.com/feed/articles/
