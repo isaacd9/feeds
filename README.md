@@ -1,8 +1,8 @@
 ## My Feeds
 [![Build Status](https://travis-ci.com/isaacd9/feeds.svg?branch=master)](https://travis-ci.com/isaacd9/feeds)
 
-This is my personal list of RSS feeds I subscribe to. I have a cron job that
-runs on that pulls this periodically and generates a feed using a [minorly
+This is my personal list of RSS feeds I subscribe to. I run a cron job that
+periodically pulls `master` and generates a list of links using a [minorly
 forked](https://github.com/isaacd9/picofeed) version of
 [picofeed](https://github.com/seenaburns/picofeed).
 
