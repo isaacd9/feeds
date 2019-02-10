@@ -14,6 +14,7 @@ http://www.jayshirley.com/blog?format=rss
 https://accidentallyquadratic.tumblr.com/rss
 https://aphyr.com/posts.atom
 https://blog.acolyer.org/feed
+https://blog.dbsmasher.com/feed
 https://blog.jessfraz.com/index.xml
 https://blog.jez.io/atom.xml
 https://brandur.org/articles.atom
