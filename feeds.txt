@@ -29,6 +29,7 @@ https://jamesbvaughan.com/feed.xml
 https://john-millikin.com/changes.xml
 https://krebsonsecurity.com/feed
 https://lethain.com/feeds/all
+https://logicmag.io/rss/
 https://medium.com/feed/@copyconstruct/
 https://medium.com/feed/@ericajoy/
 https://medium.com/feed/@mikeshi
