@@ -40,3 +40,5 @@ https://write.as/365-rfcs/feed/
 https://www.allthingsdistributed.com/atom.xml
 https://www.bostonglobe.com/rss/bigpicture
 https://www.kalzumeus.com/feed/articles/
+https://blog.cryptographyengineering.com/feed/
+https://blog.filippo.io/rss/
