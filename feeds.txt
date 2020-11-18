@@ -29,6 +29,7 @@ https://increment.com/feed.xml
 https://jamesbvaughan.com/feed.xml
 https://john-millikin.com/changes.xml
 https://krebsonsecurity.com/feed
+https://latacora.micro.blog/feed.xml
 https://lethain.com/feeds/all
 https://logicmag.io/rss/
 https://medium.com/feed/@copyconstruct/
