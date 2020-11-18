@@ -15,7 +15,9 @@ http://www.jayshirley.com/blog?format=rss
 https://accidentallyquadratic.tumblr.com/rss
 https://aphyr.com/posts.atom
 https://blog.acolyer.org/feed
+https://blog.cryptographyengineering.com/feed/
 https://blog.dbsmasher.com/feed
+https://blog.filippo.io/rss/
 https://blog.jessfraz.com/index.xml
 https://blog.jez.io/atom.xml
 https://brandur.org/articles.atom
@@ -39,6 +41,5 @@ https://vitalik.ca/feed.xml
 https://write.as/365-rfcs/feed/
 https://www.allthingsdistributed.com/atom.xml
 https://www.bostonglobe.com/rss/bigpicture
+https://www.daemonology.net/blog/index.rss
 https://www.kalzumeus.com/feed/articles/
-https://blog.cryptographyengineering.com/feed/
-https://blog.filippo.io/rss/
