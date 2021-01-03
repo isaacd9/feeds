@@ -39,6 +39,7 @@ https://robertheaton.com/feed.xml
 https://sophiebits.com/atom.xml
 https://stripe.com/blog/feed.rss
 https://vitalik.ca/feed.xml
+https://without.boats/index.xml
 https://write.as/365-rfcs/feed/
 https://www.allthingsdistributed.com/atom.xml
 https://www.bostonglobe.com/rss/bigpicture
