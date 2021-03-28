@@ -34,7 +34,6 @@ https://latacora.micro.blog/feed.xml
 https://lethain.com/feeds.xml
 https://logicmag.io/rss/
 https://medium.com/feed/@copyconstruct/
-https://medium.com/feed/@ericajoy/
 https://medium.com/feed/@mikeshi
 https://robertheaton.com/feed.xml
 https://sophiebits.com/atom.xml
