@@ -1,5 +1,4 @@
 http://blog.alicegoldfuss.com/feed.xml
-http://blog.amynguyen.net/?feed=rss2
 http://christophermeiklejohn.com/feed
 http://dtrace.org/blogs/bmc/feed
 http://feeds.feedburner.com/martinkl
@@ -13,6 +12,7 @@ http://www.eclairbytes.com/feed/
 http://www.elidedbranches.com/feeds/posts/default
 http://www.jayshirley.com/blog?format=rss
 https://accidentallyquadratic.tumblr.com/rss
+https://amy.dev/?feed=rss2
 https://aphyr.com/posts.atom
 https://blog.acolyer.org/feed
 https://blog.cryptographyengineering.com/feed/
