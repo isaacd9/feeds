@@ -20,6 +20,7 @@ https://blog.dbsmasher.com/feed
 https://blog.filippo.io/rss/
 https://blog.jessfraz.com/index.xml
 https://blog.jez.io/atom.xml
+https://blog.nelhage.com/atom.xml
 https://brandur.org/articles.atom
 https://charity.wtf/feed/atom/
 https://feeds.feedburner.com/bijsterespoor
