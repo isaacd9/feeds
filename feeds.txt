@@ -1,5 +1,6 @@
 http://blog.alicegoldfuss.com/feed.xml
 http://christophermeiklejohn.com/feed
+http://composition.al/atom.xml
 http://dtrace.org/blogs/bmc/feed
 http://feeds.feedburner.com/martinkl
 http://feeds.feedburner.com/pbailis
@@ -23,6 +24,7 @@ https://blog.jez.io/atom.xml
 https://blog.nelhage.com/atom.xml
 https://brandur.org/articles.atom
 https://charity.wtf/feed/atom/
+https://christine.website/blog.atom
 https://feeds.feedburner.com/bijsterespoor
 https://feeds.feedburner.com/codinghorror
 https://hisham.hm/feed/rss2/
