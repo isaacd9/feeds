@@ -25,6 +25,7 @@ https://blog.nelhage.com/atom.xml
 https://brandur.org/articles.atom
 https://charity.wtf/feed/atom/
 https://christine.website/blog.atom
+https://danluu.com/atom.xml
 https://feeds.feedburner.com/bijsterespoor
 https://feeds.feedburner.com/codinghorror
 https://hisham.hm/feed/rss2/
@@ -38,6 +39,7 @@ https://lethain.com/feeds.xml
 https://logicmag.io/rss/
 https://medium.com/feed/@copyconstruct/
 https://medium.com/feed/@mikeshi
+https://programmingisterrible.com/rss
 https://robertheaton.com/feed.xml
 https://sophiebits.com/atom.xml
 https://stripe.com/blog/feed.rss
